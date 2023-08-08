@@ -1,7 +1,7 @@
-# tesing the update pipeline 2ß
+# tesing the update pipeline
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
-
+test
 ## Commands
 
 * `mkdocs new [dir-name]` - Create a new project.
