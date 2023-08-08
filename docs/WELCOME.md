@@ -6,6 +6,3 @@
 
 ### Click on the Logo below to get started
 
-![](GenResource/NSS_Images/WebHacking.png)
-
-### By
