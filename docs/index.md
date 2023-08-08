@@ -1,4 +1,4 @@
-# Welcome to MkDocs testing git pipeline
+# Welcome to MkDocs testing git
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
