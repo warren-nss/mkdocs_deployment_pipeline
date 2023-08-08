@@ -1,4 +1,4 @@
-# Welcome to MkDocs war
+# Welcome to MkDocs warr
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
