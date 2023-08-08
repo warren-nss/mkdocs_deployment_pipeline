@@ -1,4 +1,4 @@
-# tesing the update pipeline
+# tesing the update
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
